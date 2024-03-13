@@ -5,7 +5,7 @@ This repository contains some simple tasks along with descriptions and correspon
 The task involves converting a client-side key-value pair into a server-side Dictionary object. Then, the list from the dictionary is retrieved, and a reducer is applied to calculate the sum of its elements.
 GEE Script Link: [Click here](https://code.earthengine.google.com/5e35f9e46fdaa766aee9ca975f90a61d)
 
-## 2. List Object Conversion and Multiplication
+## 2. Mapping and Manipulation of List Object
 ![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Client%20Vs.%20Server/ListMultiplication_GEE.JPG)
 It involves converting a list into a GEE List object, multiplying each element by 4 using the map method, and printing the multiplied list.
 GEE Script Link: [Click here](https://code.earthengine.google.com/84a0c8b9cfe759c090a4f0f1f96568c2)
