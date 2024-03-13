@@ -13,4 +13,4 @@ It involves converting a list into a GEE List object, multiplying each element b
 ## 3. Upazila Boundary Analysis in GEE
 ![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Client%20Vs.%20Server/Area%20%26%20perimeter_GEE.JPG)
 It can be used to filter out specific features, perform geometric calculations, and visualize data on maps in Google Earth Engine.
-[GEE code link](https://code.earthengine.google.com/4db6a97940ca705acf8acc5d21b1a271) is provided to the references.
+[GEE code link](https://code.earthengine.google.com/4db6a97940ca705acf8acc5d21b1a271) is provided as a reference.
