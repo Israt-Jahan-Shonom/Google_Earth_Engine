@@ -5,5 +5,6 @@ This repository contains some simple tasks along with descriptions and correspon
   "hobby":"reading",
   "numList":[2,3,4,5,6,7,9]
 }```
+Convert above key-value pair into a Dictionary object. Get the numList from the dictionary. Apply reducer to the list and print the sum of the numList.
 
 
