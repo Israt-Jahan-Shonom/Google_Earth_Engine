@@ -1,7 +1,7 @@
 # Google Earth Engine Visualizations
 This repository showcases visualizations created using Google Earth Engine for specific geospatial tasks of a Geospatial Programming Course. Below are the solutions to each task along with the corresponding screenshots and necessary code links. 
 ### 1. Visualizing a Rectangle, Point, and Polygon in GEE
-*<font color="green">Task: Draw a rectangle, a point, and a polygon in Google Earth Engine.</font>*
+*-Task: Draw a rectangle, a point, and a polygon in Google Earth Engine.*
 ![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Vector%20data%20in%20GEE/Assignment_8(1).JPG)
 Geometries (Rectangle, Point, line and Polygon) are often used to define regions of interest, boundaries, or areas for spatial analysis and processing.<br>
 JavaScript codes for visualizing some specific region are provided in this [link](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Vector%20data%20in%20GEE/GEE_8(1).js).<br>
