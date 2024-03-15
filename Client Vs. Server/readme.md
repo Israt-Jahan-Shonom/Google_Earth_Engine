@@ -1,11 +1,11 @@
 # Client Vs. Server-side of GEE
 This repository contains some simple tasks along with descriptions and corresponding Google Earth Engine (GEE) code links which I have practiced.
 ## 1. Converting Key-Value Pair to Dictionary and Calculating Sum of List
-*Task: {
-  "name":"Your_name",
-  "hobby":"reading",
-  "numList":[2,3,4,5,6,7,9]
-}
+*Task: {<br>
+  "name":"Your_name",<br>
+  "hobby":"reading",<br>
+  "numList":[2,3,4,5,6,7,9]<br>
+}<br>
 Convert above key-value pair into a GEE Dictionary object. Get the numList from the dictionary. Apply reducer to the list and print the sum of the numList.*  
   
 ![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Client%20Vs.%20Server/sumList_GEE.JPG)
