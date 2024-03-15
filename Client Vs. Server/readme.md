@@ -1,5 +1,5 @@
 # Client Vs. Server-side of GEE
-This repository contains some simple tasks along with descriptions and corresponding Google Earth Engine (GEE) code links which I have practiced.
+This repository folder contains some simple tasks related to client-side and server-side of Google Earth Engine (GEE) along with descriptions and corresponding GEE script links which I have practiced.
 ## 1. Converting Key-Value Pair to Dictionary and Calculating Sum of List
 *Task: {<br>
   "name":"Your_name",<br>
