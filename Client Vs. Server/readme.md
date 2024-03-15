@@ -13,7 +13,7 @@ The task involves converting a client-side key-value pair into a server-side Dic
 <b>GEE Script Link:</b> [Click here](https://code.earthengine.google.com/5e35f9e46fdaa766aee9ca975f90a61d)  
   
 ## 2. Mapping and Manipulation of List Object
-*Task: [4,5,7,8,,9]<br>
+*Task: [4,5,7,8,9]<br>
 Convert the above list into a GEE List object. Apply the map method and multiply the value of each element of the list by 4. Finally print the multiplied list.*  
   
 ![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Client%20Vs.%20Server/ListMultiplication_GEE.JPG)
