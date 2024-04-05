@@ -1,5 +1,5 @@
 # Indices Calculation from Imagery
-This repository folder contains some simple tasks related to Satellite Imagery Collection in Google Earth Engine (GEE) platform along with descriptions and corresponding GEE script links.
+This repository folder contains some simple tasks related to Indices calculation from Satellite Imagery in Google Earth Engine (GEE) platform along with descriptions and corresponding GEE script links.
 ## 1. NDVI (Normalized Difference Vagetation Index)
 *<b>Task:<b/> Make a NDVI map of your Upazila by using Landsat 9 imagery for 2022 and calculate the maximum and minimum NDVI value of your NDVI map.*  
   
