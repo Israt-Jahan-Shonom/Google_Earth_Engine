@@ -6,7 +6,9 @@ Refer to [this](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/tree/m
 ### Part 2: Client Vs. Server-side of GEE
 Refer to [this](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/tree/main/Client%20Vs.%20Server) folder.
 ### Part 3: GEE Image Collection
-Refer to [this](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/tree/main/GEE%20image%20collection) folder.  
+Refer to [this](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/tree/main/GEE%20image%20collection) folder.
+### Part 4: Indices Calculation from Satellite Imagery
+Refer to [this](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Indices-Calculation-from-Imagery/readme.md) folder.  
   
 # Feedback and Suggestions
 Feedback is highly appreciated! If you have any suggestions, improvements, or find any issues, please open an issue. Give a star if you find it interesting.  
