@@ -11,7 +11,7 @@ The normalized difference vegetation index, abbreviated NDVI, is defined as<br>
 <b>GEE Script Link:</b> [Click here](https://code.earthengine.google.com/339fe358001d529de645085a310ccf15)  
   
 ## 2. NDWI (Normalized Difference Water Index)
-*<b>Task:<b/> Make a NDWI map of your Upazila by using Sentinel-2 imagery for 2023. *  
+*<b>Task:<b/> Make a NDWI map of your Upazila by using Sentinel-2 imagery for 2023.*  
   
 ![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Indices-Calculation-from-Imagery/NDWI.JPG)
 The NDWI is used to monitor changes related to water content in water bodies. As water bodies strongly absorb light in visible to infrared electromagnetic spectrum, NDWI uses green and near infrared bands to highlight water bodies.<br>
