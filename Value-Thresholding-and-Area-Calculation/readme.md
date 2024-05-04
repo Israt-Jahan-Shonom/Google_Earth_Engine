@@ -28,7 +28,8 @@ The normalized difference water index, abbreviated NDWI, is defined as<br>
 *<b>Task:<b/> Generate two PNG image of your NDVI, and NDMI map by using getThumbURL() function.*  
   
 ![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Value-Thresholding-and-Area-Calculation/NDVI.png)  
-<b>Generated NDVI PNG Image</b>
+<b>Generated NDVI PNG Image</b> <br>  
+  
 ![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Value-Thresholding-and-Area-Calculation/NDMI.png)  
 <b>Generated NDMI PNG Image</b>  
   
