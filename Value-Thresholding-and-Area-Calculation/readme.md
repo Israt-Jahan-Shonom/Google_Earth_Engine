@@ -1,5 +1,6 @@
 # Value Thresholding and Area Calculation
-This repository folder contains some simple tasks related to Indices calculation from Satellite Imagery in Google Earth Engine (GEE) platform along with descriptions and corresponding GEE script links.
+This repository folder contains some tasks of index masking and area calculation from Satellite Imagery in Google Earth Engine (GEE) platform along with descriptions and corresponding GEE script links.
+
 ## 1. NDVI masking and Area Calculation
 *<b>Task:<b/> Make a NDVI map of your upazila by using Landsat 9 imagery for 2022. Generate 4 different classes and calculate area for each class by thresholding.*  
   
@@ -28,10 +29,10 @@ The normalized difference water index, abbreviated NDWI, is defined as<br>
 *<b>Task:<b/> Generate two PNG image of your NDVI, and NDMI map by using getThumbURL() function.*  
   
 ![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Value-Thresholding-and-Area-Calculation/NDVI.png)  
-<b>Generated NDVI PNG Image</b> <br>  
+*<b>Generated NDVI PNG Image</b>* <br>  
   
 ![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Value-Thresholding-and-Area-Calculation/NDMI.png)  
-<b>Generated NDMI PNG Image</b>  
+*<b>Generated NDMI PNG Image</b>*  
   
 Bare Soil Index (BSI) is a numerical indicator that combines blue, red, near infrared and short wave infrared spectral bands to capture soil variations. These spectral bands are used in a normalized manner. The short wave infrared and the red spectral bands are used to quantify the soil mineral composition, while the blue and the near infrared spectral bands are used to enhance the presence of vegetation.<br>
 BSI can be used in numerous remote sensing applications, like soil mapping, crop identification (in combination with NDVI) etc (Source: [GEO University](https://www.geo.university/pages/blog?p=spectral-indices-with-multispectral-satellite-data#:~:text=Bare%20Soil%20Index%20(BSI)%20is,bands%20to%20capture%20soil%20variations.)).<br>
