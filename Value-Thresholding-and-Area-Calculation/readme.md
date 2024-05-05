@@ -8,6 +8,7 @@ This repository folder contains some tasks of index masking and area calculation
   
 Thresholding is the most widely used change detection technique for identifying the changes in remote sensing images by classifying different land covers.<br>
 The value range of the NDVI is -1 to 1. Negative values of NDVI (values approaching -1) correspond to water. Values close to zero (-0.1 to 0.1) generally correspond to barren areas of rock, sand, or snow. Low, positive values represent shrub and grassland (approximately 0.2 to 0.4), while high values indicate temperate and tropical rainforests (values approaching 1).<br>  
+Thresholding of NDVI for Teknaf Upazila was done in four classes and area for those classes was calculated using 'reduceRegion'.
   
 <b>GEE Script Link:</b> [Click here](https://code.earthengine.google.com/0d2122e3f708e3618051f584e0acc92a)  
   
