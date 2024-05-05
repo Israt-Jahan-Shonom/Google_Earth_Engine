@@ -1,5 +1,6 @@
 # Group Reducer and Zonal Statistics
-This repository folder contains two tasks related to Group Reducer and Zonal Statistics in Google Earth Engine (GEE) platform along with descriptions and corresponding GEE script links.
+This repository folder contains two tasks related to Group Reducer and Zonal Statistics in Google Earth Engine (GEE) platform along with descriptions and corresponding GEE script links.  
+  
 ***Task:** Download a dummy data set of [Population Census of Bangladesh 2022](https://data.humdata.org/dataset/cod-ps-bgd/resource/f23d4da2-e473-4960-9d94-37df92c8d044). Reduce any three columns and group division.*  
   
 ![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Group-Reducer-and-Zonal-Statistics/Column_reducer.JPG)  
