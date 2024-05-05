@@ -29,13 +29,11 @@ The normalized difference moisture index, abbreviated NDMI, is defined as<br>
 
 Generated NDVI image from the 1st task is shown below:
   
-![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Value-Thresholding-and-Area-Calculation/NDVI.png)  
-*<b>Generated NDVI PNG Image</b>* <br>  
-
-Generated NDMI png image from the 1st task is shown below:
+![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Value-Thresholding-and-Area-Calculation/NDVI.png)    
   
-![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Value-Thresholding-and-Area-Calculation/NDMI.png)  
-*<b>Generated NDMI PNG Image</b>*  
+Generated NDMI png image from the 1st task is shown below:  
+  
+![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Value-Thresholding-and-Area-Calculation/NDMI.png)    
   
 N.B. Codes for generating URL of these images are added in the GEE Scripts of the previous two tasks. 
 
