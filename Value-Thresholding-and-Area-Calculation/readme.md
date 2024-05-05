@@ -31,7 +31,7 @@ Generated NDVI image from the 1st task is shown below:
   
 ![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Value-Thresholding-and-Area-Calculation/NDVI.png)    
   
-Generated NDMI png image from the 1st task is shown below:  
+Generated NDMI png image from the 2nd task is shown below:  
   
 ![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Value-Thresholding-and-Area-Calculation/NDMI.png)    
   
