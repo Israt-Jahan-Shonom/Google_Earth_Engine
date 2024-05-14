@@ -24,5 +24,5 @@ To group output of **image.reduceRegions()** you can specify a grouping band tha
   <img src="https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Group-Reducer-and-Zonal-Statistics/LULC_Sitakunda_QGIS.png" alt="LULC Map" width="50%">
 </p>
 
-A LULC (Land Use/Land Cover) map was produced for Sitakunda Upazila and [Sentinel-2 10m land use/land cover time series of the world](https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d) dataset for 2022 was used for this purpose.<br>  
+A LULC (Land Use/Land Cover) map was produced for Sitakunda Upazila and [Sentinel-2 10m land use/land cover time series of the world](https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d) dataset for 2022 was used in this purpose.<br>  
   
