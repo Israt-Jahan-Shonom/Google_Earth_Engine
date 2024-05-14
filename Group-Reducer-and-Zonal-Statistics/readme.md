@@ -17,3 +17,11 @@ This tool is valuable for tasks like regional analysis, providing insights into 
 To group output of **image.reduceRegions()** you can specify a grouping band that defines groups by integer pixel values. This type of computation is sometimes called "zonal statistics" where the zones are specified as the grouping band and the statistic is determined by the reducer.<br>  
   
 <b>GEE Script Link:</b> [Click here](https://code.earthengine.google.com/8b6e707262289fd03a8f7407608efe75)  
+
+***Task 3: [Watch this tutorial](https://www.youtube.com/watch?v=mrGqVM7Ww44), and make a map of by using QGIS.***  
+  
+![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Group-Reducer-and-Zonal-Statistics/Class_Area.JPG)  
+  
+To group output of **image.reduceRegions()** you can specify a grouping band that defines groups by integer pixel values. This type of computation is sometimes called "zonal statistics" where the zones are specified as the grouping band and the statistic is determined by the reducer.<br>  
+  
+<b>GEE Script Link:</b> [Click here](https://code.earthengine.google.com/8b6e707262289fd03a8f7407608efe75)  
