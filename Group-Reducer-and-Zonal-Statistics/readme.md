@@ -20,8 +20,10 @@ To group output of **image.reduceRegions()** you can specify a grouping band tha
 
 ***Task 3: [Watch this tutorial](https://www.youtube.com/watch?v=mrGqVM7Ww44), and make a map of by using QGIS.***  
   
-![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Group-Reducer-and-Zonal-Statistics/Class_Area.JPG)  
+
+<p align="center">
+  <img src="https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Group-Reducer-and-Zonal-Statistics/LULC_Sitakunda_QGIS.png" alt="LULC Map" width="50%">
+</p>
+
+A LULC (Land Use/Land Cover) map was produced for Sitakunda Upazila and [Sentinel-2 10m land use/land cover time series of the world](https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d) dataset for 2022 was used for this purpose.<br>  
   
-To group output of **image.reduceRegions()** you can specify a grouping band that defines groups by integer pixel values. This type of computation is sometimes called "zonal statistics" where the zones are specified as the grouping band and the statistic is determined by the reducer.<br>  
-  
-<b>GEE Script Link:</b> [Click here](https://code.earthengine.google.com/8b6e707262289fd03a8f7407608efe75)  
