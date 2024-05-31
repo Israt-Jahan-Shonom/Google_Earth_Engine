@@ -13,6 +13,8 @@ Refer to [this](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/m
 Refer to [this](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/tree/main/Value-Thresholding-and-Area-Calculation) folder.  
 ### Part 6: Group Reducer and Zonal Statistics
 Refer to [this](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/tree/main/Group-Reducer-and-Zonal-Statistics) folder.  
+### Part 7: Feature Collections and Exports
+Refer to [this](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/tree/main/Feature_Collections_and_Exports) folder.  
   
 # Feedback and Suggestions
 Feedback is highly appreciated! If you have any suggestions, improvements, or find any issues, please open an issue. Give a star if you find it interesting.  
