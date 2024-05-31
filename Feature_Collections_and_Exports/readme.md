@@ -1,7 +1,7 @@
 # Working with Feature Collections and Exports
 This repository folder contains some simple tasks related to adding properties to feature collections and how to export them from Google Earth Engine (GEE). Corresponding GEE script links are provided with each task.  
   
-##***Task 1: Select a feature collection of 5 waterbodies and add a property by using map() method.***  
+## ***Task 1: Select a feature collection of 5 waterbodies and add a property by using map() method.***  
   
 ![Model](https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Feature_Collections_and_Exports/addProperty.PNG)  
     
