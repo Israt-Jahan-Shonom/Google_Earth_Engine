@@ -13,10 +13,10 @@ This repository folder contains two tasks of supervised and unsupervised land us
 | **Advantages**            | - High accuracy for labeled data<br>- Interpretability <br>- Well-understood evaluation metrics     | - Can work with data without labels<br>- Helps discover unknown patterns<br>- Useful for exploratory data analysis  |
 | **Disadvantages**         | - Requires a large amount of labeled data<br>- Labeling data can be time-consuming                     | - Results can be harder to interpret<br>- Determining the number of clusters can be challenging                    |
 
-***Task 1: Do a supervised classification by using Sentinel-2 for an area, export the classified image, prepare fine-tuned map.***  
+## ***Task 1: Do a supervised classification by using Sentinel-2 for an area, export the classified image, prepare fine-tuned map.***  
   
 <p align="center">
-  <img src="https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Supervised_and_Unsupervised_Machine_Learning/LULC_CU_Watershed.jpg" alt="Supervised Classification of Chittagong University Watershed" width="50%">
+  <img src="https://github.com/Israt-Jahan-Shonom/Google_Earth_Engine/blob/main/Supervised_and_Unsupervised_Machine_Learning/LULC_CU_Watershed.jpg" alt="Supervised Classification of Chittagong University Watershed" width="70%">
 </p>    
   
 **GEE Script Link:** [Click here](https://code.earthengine.google.com/e9f8591c76140a47aa49b5ed323dea61)  
