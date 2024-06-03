@@ -1,7 +1,7 @@
 # Supervised and Unsupervised Classification
 This repository folder contains two tasks of supervised and unsupervised land use classification in Google Earth Engine (GEE) platform along with descriptions and corresponding GEE script links.  
   
-*The table above highlights the differences between unsupervised and supervised classification* (Source: [GISGeography](https://gisgeography.com/supervised-unsupervised-classification-arcgis/)
+*The table above highlights the differences between unsupervised and supervised classification* (Source: [GISGeography](https://gisgeography.com/supervised-unsupervised-classification-arcgis/))
 
 | Aspect                    | Supervised Classification                                                                                           | Unsupervised Classification                                                                                        |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
